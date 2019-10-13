@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-loan-interest-calculator/precache-manifest.e12dd13bb1504ef67a52756d44ab728c.js"
+  "/react-loan-interest-calculator/precache-manifest.7e3b08c2b1601ef8f0d0b0fb8f5452d0.js"
 );
 
 self.addEventListener('message', (event) => {
