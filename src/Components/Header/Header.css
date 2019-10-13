@@ -1,0 +1,16 @@
+.header {
+  margin: 50px auto;
+  width: 100%;
+  text-align: center;
+  opacity: 0.5;
+}
+.header h2:hover {
+  opacity: 1;
+}
+
+@media screen and (max-width: 425px) {
+  .header {
+    margin: 15px auto;
+    font-size: 0.9em;
+  }
+}

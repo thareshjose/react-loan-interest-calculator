@@ -1,0 +1,14 @@
+.container-footer {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translate(-50%);
+  text-align: center;
+}
+.container-footer img {
+  width: 40%;
+  height: 40%;
+}
+.container a {
+  cursor: pointer;
+}
