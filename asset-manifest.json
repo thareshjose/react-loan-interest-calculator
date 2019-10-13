@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-loan-interest-calculator/static/css/main.24079b77.chunk.css",
+    "main.js": "/react-loan-interest-calculator/static/js/main.4db529f5.chunk.js",
+    "main.js.map": "/react-loan-interest-calculator/static/js/main.4db529f5.chunk.js.map",
+    "runtime-main.js": "/react-loan-interest-calculator/static/js/runtime-main.477a9793.js",
+    "runtime-main.js.map": "/react-loan-interest-calculator/static/js/runtime-main.477a9793.js.map",
+    "static/css/2.6d7d54d2.chunk.css": "/react-loan-interest-calculator/static/css/2.6d7d54d2.chunk.css",
+    "static/js/2.60632366.chunk.js": "/react-loan-interest-calculator/static/js/2.60632366.chunk.js",
+    "static/js/2.60632366.chunk.js.map": "/react-loan-interest-calculator/static/js/2.60632366.chunk.js.map",
+    "index.html": "/react-loan-interest-calculator/index.html",
+    "precache-manifest.e12dd13bb1504ef67a52756d44ab728c.js": "/react-loan-interest-calculator/precache-manifest.e12dd13bb1504ef67a52756d44ab728c.js",
+    "service-worker.js": "/react-loan-interest-calculator/service-worker.js",
+    "static/css/2.6d7d54d2.chunk.css.map": "/react-loan-interest-calculator/static/css/2.6d7d54d2.chunk.css.map",
+    "static/css/main.24079b77.chunk.css.map": "/react-loan-interest-calculator/static/css/main.24079b77.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.477a9793.js",
+    "static/css/2.6d7d54d2.chunk.css",
+    "static/js/2.60632366.chunk.js",
+    "static/css/main.24079b77.chunk.css",
+    "static/js/main.4db529f5.chunk.js"
+  ]
+}
