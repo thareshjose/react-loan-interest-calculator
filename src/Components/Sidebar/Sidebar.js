@@ -1,5 +1,6 @@
 import React from "react";
 import "./Sidebar.css";
+import arrowIcon from "../../images/arrow.png";
 
 const Sidebar = props => {
   const getInterest = (event, amount, months) => {
@@ -11,7 +12,7 @@ const Sidebar = props => {
   return (
     <div className="container-sidebar">
       <div className="title-sidebar">
-        <img src={"/arrow.png"} alt="arrow" className="img-arrow" />
+        <img src={arrowIcon} alt="arrow" className="img-arrow" />
         <span className="sidebar-text">Recent Checks</span>
       </div>
       <ul className="history-items">
